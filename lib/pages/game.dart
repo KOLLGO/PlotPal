@@ -312,6 +312,7 @@ class _GameState extends State<Game> {
           const SizedBox(height: 16),
           ElevatedButton(onPressed: stopTurns, child: const Text('Stop')),
           const SizedBox(height: 16),
+          Divider(height: 30, color: Colors.transparent),
         ],
       ),
     );
