@@ -6,7 +6,7 @@ In PlotPal, you write a Story with your Friends. The Twist is: nobody knows the 
 Before starting the game, add all players and determine the number of turns (1 turn = every player typed a sentence).<br>
 One player will add a sentence to your story. As the device is passed around, all the previous sentences are censored and every player will only see the sentence typed by the player before them.<br>
 The more friends, the more fun and confusion!<br>
-<img src="https://github.com/KOLLGO/PlotPal/blob/main/screenshots/homescreen.png" width="25%" height="25%">
+<img src="https://github.com/KOLLGO/PlotPal/blob/main/screenshots/homescreen.png" width="25%" height="25%"><br>
 You may stop any time, regardless of your selected turn count. As the game stops, all the sentences are revealed. You may also save the story as a txt file.<br>
 <img src="https://github.com/KOLLGO/PlotPal/blob/main/screenshots/game.png" width="25%" height="25%"><br>
 
