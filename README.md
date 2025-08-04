@@ -1,6 +1,6 @@
 # PlotPal
 A fun party game mobile app for blindly writing a story with your friends.
----
+
 # Brief Explaination of the App's Concept
 In PlotPal, you write a Story with your Friends. The Twist is: nobody knows the plot!<br>
 Before starting the game, add all players and determine the number of turns (1 turn = every player typed a sentence).<br>
@@ -9,7 +9,7 @@ The more friends, the more fun and confusion!<br>
 <img src="https://github.com/KOLLGO/PlotPal/blob/main/screenshots/homescreen.png" width="25%" height="25%">
 You may stop any time, regardless of your selected turn count. As the game stops, all the sentences are revealed. You may also save the story as a txt file.<br>
 <img src="https://github.com/KOLLGO/PlotPal/blob/main/screenshots/game.png" width="25%" height="25%"><br>
----
+
 # Installation
 For installing PlotPal on your Android device, go to the [builds](https://github.com/KOLLGO/PlotPal/tree/main/builds) folder. You can find the versions I already built there (`APK` or `AAB`). You may also clone this repo and build it all on your own, I recommend using the pre-built versions. Once you got the `apk` or `aab` file on your phone, install it as usually done with these files.
 
